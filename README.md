@@ -49,12 +49,12 @@ Cada proyecto incluye:
 
 📘 **Este proyecto refleja la progresión en el ámbito de la Inteligencia Artificial**, abarcando aplicaciones prácticas en:
 
-Visión por Computadora 
+- Visión por Computadora 
 
-Procesamiento de Lenguaje Natural 
+- Procesamiento de Lenguaje Natural 
 
-Predicción de Series Temporales 
+- Predicción de Series Temporales 
 
-Inteligencia Conversacional 
+- Inteligencia Conversacional 
 
 ---
