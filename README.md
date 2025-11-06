@@ -1,6 +1,6 @@
 # 📌 Proyecto de Modelos de Machine Learning y Deep Learning
 
-Este repositorio contiene una recopilación de proyectos que implementan diferentes técnicas de **Machine Learning**, **Deep Learning** y **Transformers**, organizados según el tipo de aprendizaje y el marco utilizado (**TensorFlow** y **PyTorch**).
+Este repositorio recopila una serie de proyectos que implementan diferentes técnicas de Machine Learning, Deep Learning y Transformers, organizados según el tipo de aprendizaje y las herramientas utilizadas (TensorFlow, PyTorch, spaCy, Rasa, etc.).
 
 Cada proyecto incluye:
 - 📓 Cuadernos Jupyter con el entrenamiento paso a paso.
@@ -32,6 +32,29 @@ Cada proyecto incluye:
 - **NER (Named Entity Recognition)** – Reconocimiento de entidades en texto.
 - **Longformer** – Procesamiento de contratos legales y documentos largos.
 
+## 🔹 Chatbots
+
+- **Chatbot de Reservas con NER (spaCy)** – Identificación de entidades (nombre, fecha, lugar).
+
+- **Chatbot de Reservas con Clasificación de Intents (Sentence-BERT)** – Mejora del reconocimiento de intenciones mediante embeddings semánticos.
+
+- **Chatbot de Reservas Web (FAQ)** – Implementación del chatbot de reservas en entorno web usando Streamlit.
+
+- **Chatbot Basado en Reglas (Rule-Based)** – Diccionarios de intents y respuestas fijas predefinidas.
+
+- **Asegurabot (Rasa Framework)** – Chatbot avanzado para asistencia en seguros, utilizando pipelines de NLU y stories de diálogo gestionadas con Rasa.
+
+
 ---
 
-📌 *Este proyecto refleja lo aprendido en Machine Learning y Deep Learning, mostrando aplicaciones prácticas en visión por computadora, procesamiento de lenguaje natural y predicción de series temporales.*
+📘 **Este proyecto refleja la progresión en el ámbito de la Inteligencia Artificial**, abarcando aplicaciones prácticas en:
+
+Visión por Computadora 
+
+Procesamiento de Lenguaje Natural 
+
+Predicción de Series Temporales 
+
+Inteligencia Conversacional 
+
+---
