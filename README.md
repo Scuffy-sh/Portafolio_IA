@@ -58,3 +58,5 @@ Cada proyecto incluye:
 - Inteligencia Conversacional 
 
 ---
+
+🌐 Read this in [English](README_EN.md) | Lee esto en [Inglés](README_EN.md)
