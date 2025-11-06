@@ -54,9 +54,9 @@ Each project includes:
 
 📘 **This project demonstrates my growth in Artificial Intelligence**, covering practical applications in:
 
-* Computer Vision 🖼️
-* Natural Language Processing 💬
-* Time Series Forecasting 📈
-* Conversational AI 🤖
+* Computer Vision 
+* Natural Language Processing 
+* Time Series Forecasting 
+* Conversational AI 
 
-🌐 Read this in [Spanish](README.md)
+🌐 Read this in [Spanish](README.md) | Lee esto en [Español](README.md)
